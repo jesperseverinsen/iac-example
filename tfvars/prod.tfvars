@@ -1,0 +1,1 @@
+vm_size = "Standard_HB176rs_v4"
